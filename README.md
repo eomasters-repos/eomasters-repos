@@ -1,4 +1,4 @@
-## Hi EO-MAsters 👋
+## Hi EO-Masters 👋
 
 Here you find the public repositories maintained by EOMasters.
 This includes the [basic EOMasters Toolbox](https://github.com/eomasters-repos/eomtbx), the [Data Validation Environment DAVALIEN](https://github.com/eomasters-repos/eom-davalien) and the libraries [eom-commons](https://github.com/eomasters-repos/eom-commons) and [eom-commons-snap](https://github.com/eomasters-repos/eom-commons.snap).
